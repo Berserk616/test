@@ -1,0 +1,29 @@
+h1{
+    font-size: 40px;
+    text-align: center;
+    width: 500px;
+    color: blue;
+}
+h2{
+    font-size: 35px;
+    font-weight: normal;
+    text-align: center;
+    width: 500px;
+    color: rgb(63, 175, 138);
+}
+p {
+    font-family: Arial;
+    text-align: justify;
+    font-size: 20px;
+    text-indent: 30px;
+    width: 500px;
+}
+li{
+
+    text-align: justify;
+    width: 400px;
+}
+i{
+    color: rgb(63, 175, 138);
+}
+
